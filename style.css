@@ -37,9 +37,9 @@ body {
     .inicio {
         padding: 20px;
         background-color: black;
-        border-bottom: 5px solid white;
+        border-bottom: 5px solid rgb(0, 0, 0);
         font-size: 50px;
-        color: white;
+        color: rgb(0, 0, 0);
         display: flex;
         justify-content: space-around;
 
