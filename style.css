@@ -4,3 +4,24 @@ body {
 
     #titulo {
         font-size: 70px;
+        text-align: center;
+        color: darkblue;
+
+    }
+    header {
+        padding: 20px;
+        background-color: black;
+        border-bottom: 5px solid;
+        font-size: 35px;
+        color: black;
+    }
+
+    .texto{
+        font-size: 50px;
+        text-align: justify;
+        color: black;
+
+    }
+    .listas1 {
+        font-size: 50px;
+        
