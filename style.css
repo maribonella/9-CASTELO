@@ -24,4 +24,16 @@ body {
     }
     .listas1 {
         font-size: 50px;
-        
+        text-align: center;
+        list-style: none;
+    }
+
+    .listas2 {
+        font-size: 50px;
+        text-align: center;
+        list-style: none;
+    }
+
+    .inicio {
+        padding: 20px;
+
